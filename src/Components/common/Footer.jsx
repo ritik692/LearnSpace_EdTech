@@ -183,7 +183,7 @@ const Footer = () => {
             })}
           </div>
 
-          <div className="text-center">Copyright ©️ 2024 LearnSpace All rights reserved - Rugung Daiamry</div>
+          <div className="text-center">Copyright ©️ 2024 LearnSpace All rights reserved - Ritik Arora</div>
         </div>
       </div>
     </div>
